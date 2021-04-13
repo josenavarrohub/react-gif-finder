@@ -1,0 +1,10 @@
+.c-results__image {
+    height: 30vw;
+    object-fit: cover;
+    width: 100%;
+}
+@media (min-width: 576px) { .c-results__image { height: 22vw; } }
+@media (min-width: 768px) { .c-results__image { height: 19vw; } }
+@media (min-width: 992px) { .c-results__image { height: 15vw; } }
+@media (min-width: 1200px) { .c-results__image { height: 13vw; } }
+@media (min-width: 1400px) { .c-results__image { height: 10vw; } }
