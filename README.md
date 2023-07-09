@@ -1,4 +1,4 @@
-# Gifinder
+# 🔍 Gifinder
 
 A GIF images finder developed with React.
 
